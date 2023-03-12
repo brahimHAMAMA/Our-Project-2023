@@ -1,0 +1,4 @@
+*.log
+ignor_folder
+!vip.log
+!ignor_folder\test.txt
